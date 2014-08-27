@@ -1,6 +1,9 @@
 bathtip
 =======
 
+If used, please cite: Corradi, Tadeo, Peter Hall, and Pejman Iravani. ‘Tactile Features: Recognising Touch Sensations with a Novel and Inexpensive Tactile Sensor’, Accepted, unpublished. Paper presented at the Proceedings of Towards Autonomous Robotics (TAROS). 2014.
+
+
 The 3D model of the BathTip sensor. A tactile sensor using a webcam and a piece of rubber. Idea based on the concept behind the <a href="http://www.brl.ac.uk/researchthemes/medicalrobotics/tactip.aspx">TacTip</a>, by BRL.
 
 FCstd is a FreeCad file. It contains the 3D model for customisation, and an example of a base.
