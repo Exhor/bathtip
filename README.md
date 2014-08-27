@@ -1,7 +1,7 @@
 bathtip
 =======
 
-The 3D model of the BathTip sensor. A tactile sensor using a webcam and a piece of rubber. Idea based on the concept behind the TacTip (http://www.brl.ac.uk/researchthemes/medicalrobotics/tactip.aspx).
+The 3D model of the BathTip sensor. A tactile sensor using a webcam and a piece of rubber. Idea based on the concept behind the <a href="http://www.brl.ac.uk/researchthemes/medicalrobotics/tactip.aspx">TacTip</a>, by BRL.
 
 FCstd is a FreeCad file. It contains the 3D model for customisation, and an example of a base.
 
