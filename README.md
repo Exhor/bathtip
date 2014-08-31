@@ -1,7 +1,7 @@
 bathtip
 =======
 
-If used, please cite: Corradi, Tadeo, Peter Hall, and Pejman Iravani. ‘Tactile Features: Recognising Touch Sensations with a Novel and Inexpensive Tactile Sensor. Paper presented at the Proceedings of Towards Autonomous Robotics (TAROS). 2014.
+If used, please cite: Corradi, Tadeo, Peter Hall, and Pejman Iravani. ‘Tactile Features: Recognising Touch Sensations with a Novel and Inexpensive Tactile Sensor’. In Advances in Autonomous Robotics Systems, edited by Michael Mistry, Aleš Leonardis, Mark Witkowski, and Chris Melhuish, 163–72. Lecture Notes in Computer Science 8717. Springer International Publishing, 2014.
 
 
 The 3D model of the BathTip sensor. A tactile sensor using a webcam and a piece of rubber. Idea based on the concept behind the <a href="http://www.brl.ac.uk/researchthemes/medicalrobotics/tactip.aspx">TacTip</a>, by BRL.
