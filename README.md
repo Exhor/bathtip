@@ -14,3 +14,4 @@ Webcam for this design: <a href="http://www.amazon.co.uk/eSecure-Microphone-Wind
 
 Rubber membrane can be cut out of a silicone baking tray, like <a href="http://www.amazon.co.uk/Silicone-Bakeware-Chocolate-teacake-Fondant/dp/B00JH6MHIG/ref=sr_1_sc_1?ie=UTF8&qid=1409137404&sr=8-1-spell&keywords=bombon+baking+tray+silicone">this one</a>.
 
+Shown to be able to <a href="https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwi9v42CwfXOAhUqIMAKHZRpBlEQFggkMAE&url=http%3A%2F%2Fopus.bath.ac.uk%2F43651%2F1%2FBayesian_Tactile_Object_Recognition.pdf&usg=AFQjCNEVkwDoQkwvUUskh_5uDiSsSTlGbw&sig2=P9Gjo29Eh7ctch3JAXCphQ">recognise basic objects</a>.
